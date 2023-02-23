@@ -10322,10 +10322,18 @@ body {
 }
 
 .main-container {
-  height: 30vh;
+  height: 27vh;
   font-size: 5rem;
 }
 
 .side-note {
+  font-size: 2rem;
+}
+
+.footer {
+  padding-bottom: 3rem;
+}
+
+.foot-links {
   font-size: 2rem;
 }
